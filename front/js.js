@@ -1,1 +1,1 @@
-console.log('Genival!');
+console.log('Genival!')
