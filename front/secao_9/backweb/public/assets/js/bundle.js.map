@@ -1,0 +1,1 @@
+{"version":3,"file":"bundle.js","mappings":";;;;;AAAA;AACA;AACA;AACA,oC","sources":["webpack://backweb/./src/index.js"],"sourcesContent":["// alert('Olá mundo!');\r\n// const nome = 'Genival';\r\n// const sobrenome = 'Dantas';\r\n// alert(`${nome} seja bem vindo!`);"],"names":[],"sourceRoot":""}

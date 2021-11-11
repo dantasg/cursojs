@@ -1,0 +1,15 @@
+|============================================================|==========|
+|Atribuição                                                  | x = y    |
+|Atribuição e adição                                         | x += y   |
+|Atribuição de subtração                                     | x -= y   |
+|Atribuição de multiplicação                                 | x *= y   |
+|Atribuição de divisão                                       | x /= y   |
+|Atribuição de resto                                         | x %= y   |
+|Atribuição exponencial                                      | x **= y  |
+|Atribuição bit-a-bit por deslocamento á esquerda            | x <<= y  |
+|Atribuição bit-a-bit por deslocamento á direita             | X >>= y  |
+|Atribuição bit-a-bit por deslocamento á direita ñ assinado  | x >>>= y |
+|Atribuição AND bit-a-bit                                    | x &= y   |
+|Atribuição XOR bit-a-bit                                    | x ^= y   |
+|Atribuição OR bit-a-bit                                     | x |= y   |
+|============================================================|==========|
