@@ -1,7 +1,9 @@
 exports.paginaInicial = (req, res, next) => {
-    req.session.usuario = {}
+    console.log('Respondendo o cliente.');
     res.render('index');
-    return
+    console.log(`Olha o que tem na req.session.nome = ${req.session.nome}`)
+    next();
+    // Caso acabe aqui podemos tirar o next e colocar um return;
 };
 
 exports.trataPost = (req, res, next) => {
